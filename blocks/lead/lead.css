@@ -1,11 +1,5 @@
 .lead {
     width: 984px;
+    margin: 0 auto;
 }
 
-.lead-title,
-.lead-subtitle,
-.lead-caption {
-    color: white;
-    margin-block-start: 0em;
-    margin-block-end: 0em;
-}
